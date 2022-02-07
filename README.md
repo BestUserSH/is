@@ -7,4 +7,3 @@
 <a class="Gabe" href="https://gabe.indep.study">Gabe </a><br>
 <a class="Doc" href="https://doc.indep.study">Doc </a><br>
 </div>
-
