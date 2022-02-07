@@ -5,7 +5,7 @@
 </div>
 <a class="Alex" href="https://is.indep.study">Alex</a><br>
 <a class="Gabe" href="https://gabe.indep.study">Gabe</a><br>
-<a class="Doc" href="https://indep.study">Doc</a><br>
+<a class="Doc" href="https://doc.indep.study">Doc</a><br>
 <a class="NA3" href="https://indep.study">Coming Soon</a><br>
 </div>
 
