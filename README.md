@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark">
+<head>
 <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
@@ -15,12 +18,16 @@
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
+</head>
+<body>
 <div class="content" id="index">
 <div class="indep study">
 <h1 class="title site">indep.study</h1>
 <p class="subtitle">Below are some of the registered users. Email info@indep.study if you are interested.</p>
 </div>
-<a class="Alex" href="https://is.indep.study">Alex</a><br>
-<a class="Gabe" href="https://gabe.indep.study">Gabe </a><br>
-<a class="Doc" href="https://doc.indep.study">Doc </a><br>
+<a class="Alex" href="https://alex.indep.study">Alex</a><br>
+<a class="Gabe" href="https://gabe.indep.study">Gabe</a><br>
+<a class="Doc" href="https://doc.indep.study">Doc</a><br>
 </div>
+</body>
+</html>
