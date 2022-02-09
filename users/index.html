@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark">
+<head>
+<title>Independent Study</title>
+<link rel="shortcut icon" type="image/x-icon" href="favicon.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+</head>
+<body>
+<img src="https://cdn.e-z.host/e-zimagehosting/d75c90cd-9bbb-4b19-b2c7-c65b5fbdf1e1/f0511ed4.png" alt="BestIcon" width="64" height="64">
+<div class="content" id="index">
+<div class="indep study">
+<h1 class="title site">indep.study</h1>
+<p class="subtitle">Registered users:</p>
+</div>
+<a class="Alex" href="https://alex.indep.study">Alex</a><br>
+<a class="Gabe" href="https://gabe.indep.study">Gabe</a><br>
+<a class="Doc" href="https://doc.indep.study">Doc</a><br>
+<a class="Yaj" href="https://yajquantum.indep.study">Yaj</a><br><br><br><br><br><br><br>
+<a class="Home--" href="https://indep.study">Back to indep.study</a><br>
+</div>
+</div>
+</body>
+</html>
