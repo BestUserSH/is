@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100&display=swap');
 
 body{
-    text-align: center;
-    font-family: 'Poppins', sans-serif;
     color: #fff;
     background-color: #23272a;
+    font-family: 'Sora', sans-serif;
+    text-align: center;
 }
 
 a{
@@ -15,10 +15,13 @@ a{
     
 }
 
+
 a:hover{
     text-decoration: underline;
 
+
 }
+
 
 .email{
     background-color: #044caa;
@@ -37,7 +40,7 @@ a:hover{
 .showbtn {
 	background-color:transparent;
 	border-radius:28px;
-	border:1px solid #044caa;
+	border:1px solid #006eff;
 	display:inline-block;
 	cursor:pointer;
 	color:#ffffff;
@@ -63,3 +66,23 @@ footer{
 
 
 }
+
+.hvr{
+    float:left;
+    border-bottom: 2px solid #2353f1;
+}
+
+h3{
+left: 100%;
+
+
+}
+
+.first {
+    width: 400px;   /* the widht style of the first container is set to 400px. */
+    text-align: center;
+  }
+  .second {
+    width: 400px;   /* the widht style of the second container is set to 400px. */
+    text-align: center;
+  }
