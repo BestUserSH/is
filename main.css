@@ -84,3 +84,18 @@ left: 100%;
     width: 400px;   /* the widht style of the second container is set to 400px. */
     text-align: center;
   }
+
+
+
+  .username{
+    color:#0099ff;
+    
+    transition: width .35s ease-in-out;
+
+    }
+    
+    .username:hover{
+    color: #ffffff;
+    text-decoration: underline;
+        
+    }
