@@ -62,6 +62,7 @@ footer{
 
 .hvr{
     float:left;
+    margin-left: 20px;
     border-bottom: 2px solid #2353f1;
 }
 
