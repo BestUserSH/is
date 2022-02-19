@@ -1,102 +1,108 @@
-@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Signika&display=swap');
+:root{
+    
+        --bg-primary: #061325;
+        --bg-light: #0e1c2f;
+        --bg-lighter: #132238;
+        --color-primary: #32adde;
+        --color-secondary: #ec8fd1;
+        --color-primary-darker: #2d9bc7;
+        --color-secondary-darker: #c97ab2;
+        --text-color: rgb(211, 211, 211);
+    }
+
+
 
 body{
-    color: #fff;
-    background-color: #23272a;
-    font-family: 'Sora', sans-serif;
-    text-align: center;
+    font-family: 'Signika', sans-serif;
+    background-color: var(--bg-primary);
+    color: var(--text-color);
 }
 
-a{
+.header{
+ padding-right: 100px;   
+}
 
-    color: ghostwhite;
+.btn{
+    color: var(--bg-lighter);
+    border-radius: 5px;
+    padding: 9px;
     text-decoration: none;
-    font-size: 120%;
+    background-image:linear-gradient(90deg, var(--color-primary), var(--color-secondary))
     
 }
 
-
-.email{
-    background-color: #044caa;
-  color: white;
-  padding: 10px 10px;
-  margin: 8px 0;
-  border: none;
-  cursor: pointer;
-  width: 10%;
-  opacity: 0.9;
-  border-radius: 5px;
-  font-size:  15px;
+.gradient{
+    padding-top: 1%;
+    padding-right: 15%;
+    padding-left: 10%;
+    display: inline-block;
+    font-size: 30px;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent !important;
+    background-image:linear-gradient(90deg, var(--color-primary), var(--color-secondary))
 }
 
 
-.showbtn {
-	background-color:transparent;
-	border-radius:28px;
-	border:1px solid #006eff;
-	display:inline-block;
-	cursor:pointer;
-	color:#ffffff;
-	font-family:Arial;
-	font-size:17px;
-	padding:16px 31px;
-	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;
-}
-.showbtn:hover {
-	background-color:transparent;
-}
-.showbtn:active {
-	position:relative;
-	top:1px;
-}
-
-footer{
-    position: fixed;
-     bottom: 0;
-     width: 100%;
-     text-align: center;
-
-
-}
-
-.hvr{
-    float:left;
-    margin-left: 20px;
-    border-bottom: 2px solid #2353f1;
-}
-
-.hvr:hover{
-border-bottom: 2px solid #ffffff;
-
-}
-
-h3{
-left: 100%;
-
-
-}
-
-.first {
-    width: 400px;   /* the widht style of the first container is set to 400px. */
+.info {
     text-align: center;
-  }
-  .second {
-    width: 400px;   /* the widht style of the second container is set to 400px. */
-    text-align: center;
-  }
-
-
-
-  .username{
-    color:#0099ff;
     
-    transition: width .35s ease-in-out;
+}
 
-    }
-    
-    .username:hover{
-    color: #ffffff;
+.open{
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent !important;
+    background-image:linear-gradient(90deg, var(--color-primary), var(--color-secondary))
+
+
+}
+
+p{
+    color: rgb(211, 211, 211);
+}
+
+.normal-link{
+color:rgb(211, 211, 211);
+padding: 10px;
+text-decoration: none;
+}
+
+.normal-link:hover{
     text-decoration: underline;
-        
-    }
+}
+
+h1{
+
+font-size:40px;
+
+}
+.what{
+text-align:center;
+}
+
+.question{
+    font-size: 60px;
+    color: var(--color-primary);
+}
+
+p{
+    font-family: "Helvetica Neue";
+    font-size: 17px;
+}
+.title{
+    font-family: 'Signika', sans-serif;
+    font-size: 30px;
+    webkit-background-clip: text;
+    background-clip: text;
+    color: transparent !important;
+    background-image:linear-gradient(90deg, var(--color-primary), var(--color-secondary))
+    
+}
+footer {
+    font-size: 17px;
+    position: fixed;
+    bottom: 0;
+    width: 100%; text-align: center;
+}
