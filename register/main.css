@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Signika&display=swap');
 :root{
-    
+
         --bg-primary: #061325;
         --bg-light: #0e1c2f;
         --bg-lighter: #132238;
@@ -28,9 +28,8 @@ body{
     color: var(--bg-lighter);
     border-radius: 5px;
     padding: 9px;
-    text-decoration: none;
-    background-image:linear-gradient(90deg, var(--color-primary), var(--color-secondary))
-    
+    text-decoration: none;background-image:linear-gradient(90deg, var(--color-primary), var(--color-secondary))
+
 }
 
 .gradient{
@@ -44,9 +43,9 @@ body{
 }
 
 
-.info {
+info {
     text-align: center;
-    
+
 }
 
 .open{
@@ -54,7 +53,6 @@ body{
     background-clip: text;
     color: transparent !important;
     background-image:linear-gradient(90deg, var(--color-primary), var(--color-secondary))
-
 
 }
 
@@ -68,7 +66,7 @@ padding: 10px;
 text-decoration: none;
 }
 
-.normal-link:hover{
+normal-link:hover{
     text-decoration: underline;
 }
 
@@ -97,8 +95,8 @@ p{
     background-clip: text;
     color: transparent !important;
     background-image:linear-gradient(90deg, var(--color-primary), var(--color-secondary))
-    
 }
+
 footer {
     font-size: 17px;
     position: fixed;
