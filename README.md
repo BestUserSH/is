@@ -1,7 +1,12 @@
 # Indep.Study
 
-Indep study best
+the best host FR
 
-# Note For @BestUserSH
+# fr tho what is this
 
-do not put circles around the usernames in the user section!
+some website that some child made so that ppl from his school (or other schools) can host their projects somewhere
+
+
+
+
+SKIDDED from @Cacti4
